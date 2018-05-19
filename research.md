@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: My research papers
 tag: [research, health expenditure, refugees, immigrants]
 ---
