@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: My website
+title: Homepage
 
 # Short description of your site
 description: Yet Another Portfolio Website
@@ -25,9 +25,9 @@ description: Yet Another Portfolio Website
 navbar-links:
   About Me: "aboutme"
   Research: "research"
-  Resources:
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+  #Resources:
+   # - Learn markdown: "http://www.markdowntutorial.com/"
+    #- GitHub Pages: "https://pages.github.com/"
 
 
 # Image to show in the navigation bar - image must be a square (width = height)
