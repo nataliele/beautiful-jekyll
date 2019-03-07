@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Homepage
+title: HOMEPAGE
 
 # Short description of your site
-description: Yet Another Portfolio Website
+# description: Yet Another Portfolio Website
 
 # --- Navigation bar options --- #
 
@@ -78,7 +78,7 @@ social-network-links:
 #  twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
-#  linkedin: daattali
+  linkedin: nataliele
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
