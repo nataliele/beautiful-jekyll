@@ -6,7 +6,7 @@ tag: [research, ACA, insurance, small business, small group, large business, lar
 
 My background is in healthcare services research and I have written a couple of papers for my econometrics classes.
 
-My [Master paper](https://github.com/nataliele/nataliele.github.io/blob/master/_data/ACA_Small_group_and_large_group.docx) is about the effect of the Accountable Care Act on small businesses versus large business. I found a reduction of 3 percentage points (p<0.001) in the uninsured rate for small-group versus large-group employees. However, small-group employees have come to rely more on public insurance and private insurance rather than employer-sponsored insurance relative to large-group employees. As a result, when significant changes happen to Medicaid or the individual market, small-group employees might be greatly affected.
+My [Master paper](https://github.com/nataliele/nataliele.github.io/blob/master/_data/ACA_Small_group_and_large_group.docx) is about the effect of the Accountable Care Act on small businesses versus large businesses. I found a reduction of 3 percentage points (p<0.001) in the uninsured rate for small-group versus large-group employees. However, small-group employees have come to rely more on public insurance and private insurance rather than employer-sponsored insurance relative to large-group employees. As a result, when significant changes happen to Medicaid or the individual market, small-group employees might be greatly affected.
 
 <img src="/img/mp_result.png" width="500">
 
